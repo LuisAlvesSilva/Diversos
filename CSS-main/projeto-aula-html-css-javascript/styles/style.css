@@ -1,0 +1,92 @@
+.infobox{
+    font-family: Courier, sans-serif;
+    font-size: 20px;
+    border: 5px solid #04027d;
+    display: space-around;
+    background-color: #ffffff;
+    border-radius: 30px;
+    color: #000000;
+    padding-left: 20px;
+    padding-right: 20px;
+    cursor: auto;
+}
+
+.img{
+    width: 130px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: right;
+    position: absolute;
+    left: 85%;
+    top: 4.6%;
+}
+
+.contact{
+    display: flex;
+    font-size: 30px;
+    margin: 10px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+    padding-left: 10px;
+    
+}
+
+.titulo{
+    display: flex;
+    align-items: center;
+    font-size: 28px;
+    margin: 10px;
+    text-indent: 10px;
+    font-weight: bold;
+}
+
+.sobre{
+    margin: 10px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+    padding-left: 10px;
+}
+
+.exp1{
+    margin: 10px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+    padding-left: 10px;
+}
+
+.exp2{
+    margin: 10px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+    padding-left: 10px;
+}
+
+.exp3{
+    margin: 10px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+    padding-left: 10px;
+}
+
+
+.form1{
+    margin: 10px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+    padding-left: 10px;
+}
+
+.form2{
+    margin: 10px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    background-color: #f5f5f5;
+    padding-left: 10px;
+}

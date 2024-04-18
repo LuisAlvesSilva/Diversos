@@ -1,0 +1,122 @@
+  #welcome {
+    color: blue;
+    font-style: italic;
+    font-size: 80px;
+    text-shadow: 0 0 0.2em rgb(0,0,0)
+  }
+  #texto {
+    color: rgb(255,255,255);
+    font-style: italic;
+    font-size: 20px;
+    text-shadow: 0 0 0.2em rgb(0, 0, 255)
+  }
+  #historia {
+    display: flex;
+    color: rgb(255,255,255);
+    background-color: rgb(0, 0, 0);
+    border-radius: 60%;
+    height: 80px;
+    line-height: 60px;
+    padding: 0 20px;
+    cursor: pointer;
+  }
+  #luffy {
+    display: flex;
+    color: rgb(255,255,255);
+    background-color: rgb(0, 0, 0);
+    border-radius: 60%;
+    height: 80px;
+    line-height: 80px;
+    padding: 0 20px;
+    font-style: italic;
+    cursor: pointer;
+    background-image: url('img/luffy.png');
+  }
+  #zoro {
+    display: flex;
+    color: rgb(255,255,255);
+    background-color: rgba(0, 0, 0);
+    border-radius: 60%;
+    height: 80px;
+    line-height: 80px;
+    padding: 0 20px;
+    font-style: italic;
+    cursor: pointer;
+  }
+  #sanji {
+    display: flex;
+    color: rgb(255,255,255);
+    background-color: rgba(0, 0, 0);
+    border-radius: 60%;
+    height: 80px;
+    line-height: 80px;
+    padding: 0 20px;
+    font-style: italic;
+    cursor: pointer;
+  }
+  #usopp {
+    display: flex;
+    color: rgb(255,255,255);
+    background-color: rgba(0, 0, 0);
+    border-radius: 60%;
+    height: 80px;
+    line-height: 80px;
+    padding: 0 20px;
+    font-style: italic;
+    cursor: pointer;
+  }
+  #nami {
+    display: flex;
+    color: rgb(255,255,255);
+    background-color: rgba(0, 0, 0);
+    border-radius: 60%;
+    height: 80px;
+    line-height: 80px;
+    padding: 0 20px;
+    font-style: italic;
+    cursor: pointer;
+  }
+  #chopper {
+    display: flex;
+    color: rgb(255,255,255);
+    background-color: rgba(0, 0, 0);
+    border-radius: 60%;
+    height: 80px;
+    line-height: 80px;
+    padding: 0 20px;
+    font-style: italic;
+    cursor: pointer;
+  }
+  #robin {
+    display: flex;
+    color: rgb(255,255,255);
+    background-color: rgba(0, 0, 0);
+    border-radius: 60%;
+    height: 80px;
+    line-height: 80px;
+    padding: 0 20px;
+    font-style: italic;
+    cursor: pointer;
+  }
+  #franky {
+    display: flex;
+    color: rgb(255,255,255);
+    background-color: rgba(0, 0, 0);
+    border-radius: 60%;
+    height: 80px;
+    line-height: 80px;
+    padding: 0 20px;
+    font-style: italic;
+    cursor: pointer;
+  }
+  #brook {
+    display: flex;
+    color: rgb(255,255,255);
+    background-color: rgb(0, 0, 0);
+    border-radius: 60%;
+    height: 80px;
+    line-height: 80px;
+    padding: 0 20px;
+    font-style: italic;
+    cursor: pointer;
+  }
