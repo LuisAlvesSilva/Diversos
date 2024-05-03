@@ -1,0 +1,20 @@
+.jogo{
+    align-items: 9000p;
+    background-image:url(/A3/Styles/image/images.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 250px;
+    height: 250px;
+    left: 500px;
+    top: 200px;
+    position: relative;
+}
+
+.inicio{
+    opacity: 10;
+    width: 100px;
+    height: 30px;
+    top: 125px;
+    left: 125px;
+    position: relative;
+}
