@@ -3,10 +3,11 @@
     background-image:url(/A3/Styles/image/images.png);
     background-repeat: no-repeat;
     background-position: center;
-    width: 250px;
-    height: 250px;
-    left: 500px;
-    top: 200px;
+    background-size: 500px;
+    width: 450px;
+    height: 450px;
+    left: 450px;
+    top: 90px;
     position: relative;
 }
 
@@ -14,7 +15,7 @@
     opacity: 10;
     width: 100px;
     height: 30px;
-    top: 125px;
-    left: 125px;
+    top: 290px;
+    left: 180px;
     position: relative;
 }
